@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xuj:home|Door43 (xuj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xuj|d43-xuj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xuj/archive/master.zip|d43-xuj.zip]]
+
+**Recent Changes**
+{{changes>ns = xuj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xuj|Ethnologue data]]
+
